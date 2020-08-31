@@ -6,7 +6,7 @@ Uses singleton pattern to create a single circuit at a time.
 
 To run the project, use the file UserMain.java
 
-This application generates basic circuits input by the user, using basic resistors, voltage sources and nodes.
+This application creates basic circuits input by the user, using basic resistors, voltage sources and nodes.
 
 
 To enter information do it in the format: v/r Node1 Node2 voltage value/resistance value
